@@ -1,0 +1,19 @@
+Human-Rat:
+Score: 3107
+Similarity: 91.74603174603175 %
+Human-Mouse:
+Score: 3137
+Similarity: 92.53968253968254 %
+Mouse-Rat:
+Score: 3261
+Similarity: 96.82539682539682 %
+
+
+Mouse and rat are most closely related. Because the similarity is the biggest and the score is biggest.
+
+Mouse is the better model organism for human. 
+Because human-rat score is lower than Human-mouse score and the similarity between human & rat is smaller than human & mouse.
+
+
+
+
